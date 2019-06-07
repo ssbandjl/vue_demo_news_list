@@ -25,6 +25,8 @@ npm run test
 npm run lint
 ```
 
+### 教程
+https://www.imooc.com/video/18572
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # vue_demo_news_list
